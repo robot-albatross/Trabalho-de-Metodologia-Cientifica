@@ -33,6 +33,7 @@ APRESENTAÇÃO:<br />
   3. Ainda avaliando os agrupamentos no topo e no fundo, foi usado de tabelas pra comparar o desenvolvimento de agrupamentos de regiões.(tabela)<br /> 
   4. Mostrar Distribuição dos IDHs de educação, expectativa de vida e PIB(as partes isoladas que formam o IDH) dos 3 países menos desenvolvidos e 3 mais desenvolvidos(gráficos de barras)<br /> 
   5. Mostrar 3 plots com IDH normal contra os outros 3 IDHs e checar por evidências de correlações(scatter plot)<br /> 
+
 (Eu não sei se é uma boa pegar nas microrregiões ainda, pra segunda eu acho uma boa ver as meso e fazer uma analise simples de como elas evoluem, depois que a gente achar um conjunto de mesorregiões especificas pra investigar a gente trabalha em cima das microrregiões delas)<br /> 
 -Resultados e Discussão: Apresentar tabelas e gráficos e explicar de forma clara qual informação cada uma delas tras para mesa.<br /> 
   1. Comentar sobre padrões, agrupamentos, outliers e discrepancias no mapa temático.<br /> 
