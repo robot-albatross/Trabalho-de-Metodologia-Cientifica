@@ -1,26 +1,26 @@
 # Trabalho-de-Metodologia-Cientifica
 Analise do IDH nas regiões do Estado de São Paulo
 
-Observações:
--Avalia-se o desenvolvimento de uma região por sua riqueza, distribuição da riqueza e impacto de seus investimentos.
--O IDH só é avaliado a nível nacional, estadual e municipal. Não existem medidas de IDH planejadas para meso e microrregiões, portanto o IDH teórico dessas regiões nesse trabalho será a média dos IDH-M¹(medida específica de IDH de Municipios) que as meso/microrregiões contêm.
--IDHs similares podem ser alcançados por regiões com investimentos completamente diferentes. Por exemplo uma região com alta educação e baixa expectativa de vida pode ter o mesmo IDH que outra com os dois baixos e só o PIB alto, então vale a pena quebrar o IDH em partes na hora de comparar regiões. 
+Observações:<br /> 
+-Avalia-se o desenvolvimento de uma região por sua riqueza, distribuição da riqueza e impacto de seus investimentos.<br /> 
+-O IDH só é avaliado a nível nacional, estadual e municipal. Não existem medidas de IDH planejadas para meso e microrregiões, portanto o IDH teórico dessas regiões nesse trabalho será a média dos IDH-M¹(medida específica de IDH de Municipios) que as meso/microrregiões contêm.<br /> 
+-IDHs similares podem ser alcançados por regiões com investimentos completamente diferentes. Por exemplo uma região com alta educação e baixa expectativa de vida pode ter o mesmo IDH que outra com os dois baixos e só o PIB alto, então vale a pena quebrar o IDH em partes na hora de comparar regiões. <br /> 
 
-Perguntas pra ajudar a pensar na análise:
--Quem tava no topo na data inicial continuou no topo depois de x anos? Pq caiu/permaneceu no topo?
--As disparidades entre menos desenvolvido e mais desenvolvido diminuiram?
--Existe algum padrão/agrupamento na variação de desenvolvimento?
--Existe correlção entre gastos em x com aumento do desenvolvimento? Se existir o quão forte é e qual tem maior correlação?
+Perguntas pra ajudar a pensar na análise:<br /> 
+-Quem tava no topo na data inicial continuou no topo depois de x anos? Pq caiu/permaneceu no topo?<br /> 
+-As disparidades entre menos desenvolvido e mais desenvolvido diminuiram?<br /> 
+-Existe algum padrão/agrupamento na variação de desenvolvimento?<br /> 
+-Existe correlção entre gastos em x com aumento do desenvolvimento? Se existir o quão forte é e qual tem maior correlação?<br /> 
 
-Fontes Bibliográficas(eu só vou deixar links, o paper de verdade precisa ter elas no formato ABNT):
-1 - https://onedrive.live.com/?authkey=%21AHWsj%2DUGXcU7LKE&id=124653557C0404EC%2122849&cid=124653557C0404EC&parId=root&parQt=sharedby&o=OneUp
-2 - http://www.atlasbrasil.org.br/ <- ESSE SITE É MUITO BOM! Aqui que eu peguei os dados.
-3 -https://congressods.com.br/sexto/anais_sexto/ARTIGOS_GT07/GASTOS%20PER%20CAPITA%20COM%20EDUCACAO%20E%20DESENVOLVIMENTO%20HUMANO%20UMA%20ANALISE%20ESPACIAL%20DO%20ESTADO%20DE%20MINAS%20GERAIS.pdf
+Fontes Bibliográficas(eu só vou deixar links, o paper de verdade precisa ter elas no formato ABNT):<br /> 
+1 - https://onedrive.live.com/?authkey=%21AHWsj%2DUGXcU7LKE&id=124653557C0404EC%2122849&cid=124653557C0404EC&parId=root&parQt=sharedby&o=OneUp <br /> 
+2 - http://www.atlasbrasil.org.br/ <- ESSE SITE É MUITO BOM! Aqui que eu peguei os dados.<br /> 
+3 -https://congressods.com.br/sexto/anais_sexto/ARTIGOS_GT07/GASTOS%20PER%20CAPITA%20COM%20EDUCACAO%20E%20DESENVOLVIMENTO%20HUMANO%20UMA%20ANALISE%20ESPACIAL%20DO%20ESTADO%20DE%20MINAS%20GERAIS.pdf <br /> 
 
-(Não usei mas podem ser úteis)
-4 - https://cidades.ibge.gov.br/brasil/sp/sao-paulo/panorama
-5 - https://saopaulo.fandom.com/pt-br/wiki/Lista_das_unidades_administrativas_de_S%C3%A3o_Paulo
-6 - http://dataviva.info/pt/location/4sp090607
+(Não usei mas podem ser úteis)<br /> 
+4 - https://cidades.ibge.gov.br/brasil/sp/sao-paulo/panorama <br /> 
+5 - https://saopaulo.fandom.com/pt-br/wiki/Lista_das_unidades_administrativas_de_S%C3%A3o_Paulo <br /> 
+6 - http://dataviva.info/pt/location/4sp090607 <br /> 
 
 Livros:
 7 - Book: Visual Display of Quantitative Information
