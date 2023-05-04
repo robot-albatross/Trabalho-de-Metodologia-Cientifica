@@ -40,6 +40,7 @@ APRESENTAÇÃO:<br />
   2. Mostar variação percentual<br /> 
   3. Comentar sobre regiões que deixaram apresentando uma tabela dele antes e depois lado a lado.<br /> 
   4. Comentar sobre como as partes do IDH estão destribuidas.<br /> 
-  5. Comentar se parece que existe ou não correlações.<br /> 
+  5. Comentar se parece que existe ou não correlações.<br />
+ 
 -Conclusão: Reiterar a razão da pesquisa, unir as informações apresentadas de forma sucinta e explicar como os insights resultantes agregam ao objetivo do projeto estabelecido.<br /> 
 -Considerações finais: Possíveis paths a seguir com a pesquisa baseado nos insights adquiridos até o momento. (Ex: tentar encontrar um padrão em agrupamentos com medidas similares, investigar outliers, pesquisar ascensões ou decrésimos bruscos, como no top 5 ou 10 ou whatever)<br /> 
