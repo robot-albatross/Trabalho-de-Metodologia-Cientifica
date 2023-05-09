@@ -44,3 +44,8 @@ APRESENTAÇÃO:<br />
 
 -Conclusão: Reiterar a razão da pesquisa, unir as informações apresentadas de forma sucinta e explicar como os insights resultantes agregam ao objetivo do projeto estabelecido.<br /> 
 -Considerações finais: Possíveis paths a seguir com a pesquisa baseado nos insights adquiridos até o momento. (Ex: tentar encontrar um padrão em agrupamentos com medidas similares, investigar outliers, pesquisar ascensões ou decrésimos bruscos, como no top 5 ou 10 ou whatever)<br /> 
+
+Sugestões pós apresentação:<br />
+-Considerar as áreas que cada região ocupa.
+-Considerar fazer uma média ponderada com a quantidade de população como peso.
+-Considerar uma regressão linear.
