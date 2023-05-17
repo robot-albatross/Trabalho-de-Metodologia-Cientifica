@@ -46,6 +46,16 @@ APRESENTAÇÃO:<br />
 -Considerações finais: Possíveis paths a seguir com a pesquisa baseado nos insights adquiridos até o momento. (Ex: tentar encontrar um padrão em agrupamentos com medidas similares, investigar outliers, pesquisar ascensões ou decrésimos bruscos, como no top 5 ou 10 ou whatever)<br /> 
 
 Sugestões pós apresentação:<br />
--Considerar as áreas que cada região ocupa.
--Considerar fazer uma média ponderada com a quantidade de população como peso.
--Considerar uma regressão linear.
+-Considerar as áreas que cada região ocupa.<br /> 
+
+-Considerar fazer uma média ponderada com a quantidade de população como peso.<br /> 
+
+-Considerar uma regressão linear.<br /> 
+
+-Fazer um mapa de desvios padrões em vez de variação percentual.<br /> 
+
+-Descobrir porque as regiões menos desenvolvidas são assim. (Verificar se os tem um outlier puxando a média pra baixo)<br /> 
+
+-Analisamos coméricio nas regiões(isso vai ser pra depois da apresentação do dia 22 de maio)
+
+Missão ate segunda: descobrir pq as menos desenvolvidas são menos desenvolvidas e justificar os gaps e possivel analise histórica. Ver a média ponderada. Começar a relacionar a politicas públicas.
